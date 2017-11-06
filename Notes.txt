@@ -1,0 +1,16 @@
+Deploy Application to SURGE.SH
+==============================
+
+npm run build
+
+surge
+
+path: C:\Univision\flickr-univision-app\build\
+domain: univision.surge.sh
+
+go to univision.surge.sh
+
+Redeploy Changes
+================
+
+surge --domain univision.surge.sh
